@@ -1,8 +1,6 @@
 # Prebuilt binaries for the swc project
 
-
 ## dbg-swc
-
 
 Using dbg-swc to debug size issue of your next.js app:
 
@@ -12,4 +10,4 @@ Using dbg-swc to debug size issue of your next.js app:
 
 e.g. `yarn global add terser` or `yarn add -D terser` will both work.
 
-4. `dbg-swc minify next check-size`  in your next.js app
+4. `dbg-swc minify next check-size` in your next.js app
